@@ -30,3 +30,10 @@ El CRM no tiene soporte para campañas de correo electrónico. Por lo tanto, se 
 
   Como se comentó en la primera pregunta, hay razones suficientes para implementar esta nueva funcionalidad como un servicio independiente. Ahora, ¿qué equipo debería implementarla? Obviamente el equipo de CRM debe estar involucrado en la implementación de este servivio de evaluación de campañas electrónicas, y si es un equipo de desarrolladores deben ser ellos quienes lo implementen.
   
+## Pregunta 2
+
+## Pregunta 3
+
+## Pregunta 4
+
+Ver el documento adjunto en este repositorio con el nombre «PC4 - Pregunta 4».
